@@ -1,0 +1,17 @@
+name| userid| roomno|roomtype | hostelno| problemid 
+
+problemid e/m/w/f
+  f11 - chair is missing.
+  f12 - chair is broken.
+
+  f21 - table is missing
+  f22 - table is broken
+
+  f31
+  f32
+ 
+  f41
+  f42
+  f43
+
+  e1
